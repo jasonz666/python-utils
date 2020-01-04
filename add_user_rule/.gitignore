@@ -2,4 +2,13 @@
 .idea/
 
 # ignore test files
-test.*
+test*
+
+# ignore txt files
+*.txt
+
+# ignore pyinstaller files
+__pycache__/
+build/
+dist/
+add_user_rule.spec
